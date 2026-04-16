@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Study DSA",
+        "priority": 4,
+        "due_date": "2026-04-16",
+        "completed": false
+    },
+    {
+        "title": "Sleep",
+        "priority": 5,
+        "due_date": "2026-04-17",
+        "completed": true
+    },
+    {
+        "title": "Study DEVOPS",
+        "priority": 3,
+        "due_date": "2026-04-18",
+        "completed": false
+    }
+]
